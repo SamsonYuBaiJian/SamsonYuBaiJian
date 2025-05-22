@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on applied AI/ML research for biomedical applications!
+I’m currently working on the intersection of knowledge, reasoning and world models in ML, hopefully for longevity research!
